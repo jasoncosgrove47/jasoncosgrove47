@@ -8,7 +8,10 @@ I develop computational tools to analyze human health, disease and sporting perf
 ## 🔬 Research Highlights
 
 -  PhD level scientist trained in experimental and computational biology approaches. Over 4 million euros obtained in research funding from the Wellcome Trust, European Research Council, and the Agence Nationale de Recherche.
-  
+
+  -  **Cosgrove *et al.* (2020)** — *Multiscale modelling of lymph node architecture to study how tissues regulate B-cell maturation*  
+  [Repository](https://github.com/jasoncosgrove47/CXCL13Sim)
+
 -  **Gerber *et al.* (2022)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in WT and PyMT mice*  
   [Repository](https://github.com/jasoncosgrove47/Gerber_et_al_2022)
 
