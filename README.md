@@ -1,18 +1,20 @@
+
 # Jason Cosgrove
 
-Principal scientist in computational medicine with a focus on **Computational and Systems Biology | AI | Drug Discovery**.  
-
+Principal Scientist in Computational Medicine with a focus on  
+<span style="color:#2b6cb0; font-weight:bold;">Computational and Systems Biology | AI | Drug Discovery</span>  
 
 ---
 
 ## Research Highlights
 
--  PhD level scientist trained in experimental and computational biology approaches. Over 4 million euros obtained in research funding from the Wellcome Trust, European Research Council, and the Agence Nationale de Recherche.
+- PhD-level scientist trained in experimental and computational biology approaches.  
+  Over <span style="color:#b83280; font-weight:bold;">€4 million</span> obtained in research funding from the **Wellcome Trust**, **European Research Council**, and the **Agence Nationale de Recherche**.  
 
-  -  **Cosgrove *et al.* (2020, Nature Communications)** — *Multiscale modelling of lymph node architecture to study how tissues regulate B-cell maturation*  
+- **Cosgrove *et al.* (2020, Nature Communications)** — *Multiscale modelling of lymph node architecture to study how tissues regulate B-cell maturation*  
   [Repository](https://github.com/jasoncosgrove47/CXCL13Sim)
 
--  **Gerber *et al.* (2022, Nature Cell Biology)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in preclinical models of breast cancer*  
+- **Gerber *et al.* (2022, Nature Cell Biology)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in preclinical models of breast cancer*  
   [Repository](https://github.com/jasoncosgrove47/Gerber_et_al_2022)
 
 - **Urbanus & Cosgrove *et al.* (2023, Nature Communications)** — *Ageing and hematopoietic stem cell dynamics in the bone marrow niche*  
@@ -28,12 +30,10 @@ Principal scientist in computational medicine with a focus on **Computational an
 
 ## Coding Projects
 
-
 - **Shiny Dashboards for Single-Cell Data** — Interactive visualization tools for scRNA-seq datasets  
   [Repository](https://github.com/jasoncosgrove47)
 
 ---
-
 
 ## Sports Science Projects
 
@@ -47,25 +47,22 @@ Principal scientist in computational medicine with a focus on **Computational an
 
 ## Connect with Me
 
-- **ORCID**: [0000-0003-3121-2009][(https://orcid.org/0000-0003-3121-2009)
-- **Google Scholar**: [View Publications]([https://scholar.google.com/citations?user=XXXX](https://scholar.google.com/citations?user=gH0WDeIAAAAJ&hl=en))  
+- **ORCID**: [0000-0003-3121-2009](https://orcid.org/0000-0003-3121-2009)  
+- **Google Scholar**: [View Publications](https://scholar.google.com/citations?user=gH0WDeIAAAAJ&hl=en)  
 - **LinkedIn**: [Jason Cosgrove](https://fr.linkedin.com/in/jason-cosgrove-18537a53)  
 - **Email**: jason.cosgrove47@gmail.com  
 
 ---
 
-
 ## Programming Languages
 
 | Language | Usage |
 |----------|------------------------------------------------|
-| **R**    | Primary language for bioinformatics and scRNA-seq pipelines (DESeq2, WGCNA, Shiny apps) |
-| **Python** | Data preprocessing, analysis utilities, and machine learning integration |
-| **Java** | Building simulation models of the immune system |
-
+| <span style="color:#276DC3; font-weight:bold;">R</span> | Bioinformatics and scRNA-seq pipelines (DESeq2, WGCNA, Shiny apps) |
+| <span style="color:#3776AB; font-weight:bold;">Python</span> | Data preprocessing, analysis utilities, machine learning integration |
+| <span style="color:#E76F00; font-weight:bold;">Java</span> | Simulation models of the immune system |
 
 ---
-
 
 ## GitHub Activity
 
