@@ -51,9 +51,6 @@ I develop computational tools to analyze human health, disease and sporting perf
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasoncosgrove47&show_icons=true&theme=default)  
 
 ## Programming Languages
 
@@ -65,3 +62,8 @@ I develop computational tools to analyze human health, disease and sporting perf
 
 
 ---
+
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasoncosgrove47&show_icons=true&theme=default)  
