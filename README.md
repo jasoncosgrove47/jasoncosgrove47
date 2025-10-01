@@ -1,8 +1,7 @@
 
 # Jason Cosgrove
 
-Principal Scientist in Computational Medicine with a focus on  
-<span style="color:#2b6cb0; font-weight:bold;">Computational and Systems Biology | AI | Drug Discovery</span>  
+Principal Scientist in Computational Medicine with a focus on  **Computational and Systems Biology | AI | Drug Discovery**
 
 ---
 
