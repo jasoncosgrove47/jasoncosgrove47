@@ -1,13 +1,15 @@
 # Jason Cosgrove
 
-Computational biologist with a focus on **single-cell genomics, hematopoiesis, and translational bioinformatics**.  
-I develop tools and workflows for analyzing high-dimensional sequencing data, while also exploring applications of coding to sports science and performance tracking.  
+Principal scientist in computational medicine with a focus on **single-cell genomics, immuno-oncology, mathematical modelling and AI**.  
+I develop computational tools to analyze human health, disease and sporting performance.
 
 ---
 
 ## 🔬 Research Highlights
 
-- **Gerber *et al.* (2022)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in WT and PyMT mice*  
+-  PhD level scientist trained in experimental and computational biology approaches. Over 4 million euros obtained in research funding from the Wellcome Trust, European Research Council, and the Agence Nationale de Recherche.
+  
+-  **Gerber *et al.* (2022)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in WT and PyMT mice*  
   [Repository](https://github.com/jasoncosgrove47/Gerber_et_al_2022)
 
 - **Urbanus & Cosgrove *et al.* (2023)** — *Ageing and hematopoietic stem cell dynamics in the bone marrow niche*  
@@ -23,22 +25,28 @@ I develop tools and workflows for analyzing high-dimensional sequencing data, wh
 
 ## 💻 Coding Projects
 
-- **Powercut** — Tool for powerlifters to track performance across bodyweight changes  
-  [Repository](https://github.com/jasoncosgrove47/powercut)
-
-- **Rate My SBD** — RShiny app to evaluate powerlifting performances, based on [ratemysbd.com](https://ratemysbd.com)  
-  [Repository](https://github.com/jasoncosgrove47/rate-my-SBD)
 
 - **Shiny Dashboards for Single-Cell Data** — Interactive visualization tools for scRNA-seq datasets  
   [Repository](https://github.com/jasoncosgrove47)
 
 ---
 
+
+## 💻 Sports Science Projects
+
+- **Powercut** — Tool for powerlifters to track performance across bodyweight changes  
+  [Repository](https://github.com/jasoncosgrove47/powercut)
+
+- **Rate My SBD** — RShiny app to evaluate powerlifting performances, based on [ratemysbd.com](https://ratemysbd.com)  
+  [Repository](https://github.com/jasoncosgrove47/rate-my-SBD)
+
+---
+
 ## 📫 Connect with Me
 
-- **ORCID**: [0000-0000-XXXX-XXXX](https://orcid.org/0000-0000-XXXX-XXXX)  
-- **Google Scholar**: [View Publications](https://scholar.google.com/citations?user=XXXX)  
-- **LinkedIn**: [Jason Cosgrove](https://www.linkedin.com/in/XXXX)  
+- **ORCID**: [0000-0003-3121-2009][(https://orcid.org/0000-0003-3121-2009)
+- **Google Scholar**: [View Publications]([https://scholar.google.com/citations?user=XXXX](https://scholar.google.com/citations?user=gH0WDeIAAAAJ&hl=en))  
+- **LinkedIn**: [Jason Cosgrove](https://fr.linkedin.com/in/jason-cosgrove-18537a53)  
 - **Email**: jason.cosgrove47@gmail.com  
 
 ---
