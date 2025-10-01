@@ -5,7 +5,7 @@ I develop computational tools to analyze human health, disease and sporting perf
 
 ---
 
-## 🔬 Research Highlights
+## Research Highlights
 
 -  PhD level scientist trained in experimental and computational biology approaches. Over 4 million euros obtained in research funding from the Wellcome Trust, European Research Council, and the Agence Nationale de Recherche.
 
@@ -26,7 +26,7 @@ I develop computational tools to analyze human health, disease and sporting perf
 
 ---
 
-## 💻 Coding Projects
+## Coding Projects
 
 
 - **Shiny Dashboards for Single-Cell Data** — Interactive visualization tools for scRNA-seq datasets  
@@ -35,7 +35,7 @@ I develop computational tools to analyze human health, disease and sporting perf
 ---
 
 
-## 💻 Sports Science Projects
+## Sports Science Projects
 
 - **Powercut** — Tool for powerlifters to track performance across bodyweight changes  
   [Repository](https://github.com/jasoncosgrove47/powercut)
@@ -45,7 +45,7 @@ I develop computational tools to analyze human health, disease and sporting perf
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **ORCID**: [0000-0003-3121-2009][(https://orcid.org/0000-0003-3121-2009)
 - **Google Scholar**: [View Publications]([https://scholar.google.com/citations?user=XXXX](https://scholar.google.com/citations?user=gH0WDeIAAAAJ&hl=en))  
@@ -67,6 +67,6 @@ I develop computational tools to analyze human health, disease and sporting perf
 ---
 
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasoncosgrove47&show_icons=true&theme=default)  
