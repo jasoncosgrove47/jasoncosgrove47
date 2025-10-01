@@ -12,13 +12,13 @@ I develop computational tools to analyze human health, disease and sporting perf
   -  **Cosgrove *et al.* (2020, Nature Communications)** — *Multiscale modelling of lymph node architecture to study how tissues regulate B-cell maturation*  
   [Repository](https://github.com/jasoncosgrove47/CXCL13Sim)
 
--  **Gerber *et al.* (2022, Nature Cell Biology)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in WT and PyMT mice*  
+-  **Gerber *et al.* (2022, Nature Cell Biology)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in preclinical models of breast cancer*  
   [Repository](https://github.com/jasoncosgrove47/Gerber_et_al_2022)
 
 - **Urbanus & Cosgrove *et al.* (2023, Nature Communications)** — *Ageing and hematopoietic stem cell dynamics in the bone marrow niche*  
   [Repository](https://github.com/jasoncosgrove47/Urbanus_Cosgrove_et_al_2023)
 
-- **Eisele *et al.* (2022, eLife)** — *Integration of scRNA-seq and cellular barcoding to dissect hematopoiesis*  
+- **Eisele *et al.* (2022, eLife)** — *Integration of scRNA-seq and cellular barcoding to study blood cell production*  
   [Repository](https://github.com/jasoncosgrove47/Eisele_et_al_2022)
 
 - **RNA-seq Tutorial** — *End-to-end RNA-seq workflow using Bioconductor*  
