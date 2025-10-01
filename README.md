@@ -54,6 +54,14 @@ I develop computational tools to analyze human health, disease and sporting perf
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasoncosgrove47&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasoncosgrove47&layout=compact)  
+
+## Programming Languages
+
+| Language | Usage |
+|----------|------------------------------------------------|
+| **R**    | Primary language for bioinformatics and scRNA-seq pipelines (DESeq2, WGCNA, Shiny apps) |
+| **Python** | Data preprocessing, analysis utilities, and machine learning integration |
+| **Java** | Building simulation models of the immune system |
+
 
 ---
