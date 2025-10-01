@@ -1,7 +1,7 @@
 # Jason Cosgrove
 
-Principal scientist in computational medicine with a focus on **single-cell genomics, immuno-oncology, mathematical modelling and AI**.  
-I develop computational tools to analyze human health, disease and sporting performance.
+Principal scientist in computational medicine with a focus on **Computational and Systems Biology | AI | Drug Discovery**.  
+
 
 ---
 
