@@ -14,7 +14,7 @@ Principal Scientist in Computational Medicine with a focus on  **Computational a
   [Repository](https://github.com/jasoncosgrove47/CXCL13Sim)
 
 - **Gerber *et al.* (2022, Nature Cell Biology)** — *scRNA-seq analysis of hematopoietic stem and progenitor cells (HSPCs) in preclinical models of breast cancer*  
-  [Repository](https://github.com/jasoncosgrove47/Gerber_et_al_2022)
+  [Repository](https://github.com/jasoncosgrove47/Gerber_et_al_2023)
 
 - **Urbanus & Cosgrove *et al.* (2023, Nature Communications)** — *Ageing and hematopoietic stem cell dynamics in the bone marrow niche*  
   [Repository](https://github.com/jasoncosgrove47/Urbanus_Cosgrove_et_al_2023)
