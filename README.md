@@ -22,7 +22,7 @@ Principal Scientist in Computational Medicine with a focus on  **Computational a
 - **Eisele *et al.* (2022, eLife)** — *Integration of scRNA-seq and cellular barcoding to study blood cell production*  
   [Repository](https://github.com/jasoncosgrove47/Eisele-et-al.-)
 
-- **RNA-seq Tutorial** — *End-to-end RNA-seq workflow using Bioconductor*  
+- **RNA-seq Tutorial** — *End-to-end RNA-seq workflow using R*  
   [Repository](https://github.com/jasoncosgrove47/RNAseq_tutorial)
 
 ---
