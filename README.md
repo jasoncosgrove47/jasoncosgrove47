@@ -25,12 +25,6 @@ Principal Scientist in Computational Medicine with a focus on  **Computational a
 - **RNA-seq Tutorial** — *End-to-end RNA-seq workflow using R*  
   [Repository](https://github.com/jasoncosgrove47/RNAseq_tutorial)
 
----
-
-## Coding Projects
-
-- **Shiny Dashboards for Single-Cell Data** — Interactive visualization tools for scRNA-seq datasets  
-  [Repository](https://github.com/jasoncosgrove47)
 
 ---
 
