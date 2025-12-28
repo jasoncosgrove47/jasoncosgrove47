@@ -17,7 +17,7 @@ Principal Scientist in Computational Medicine with a focus on  **Computational a
   [Repository](https://github.com/jasoncosgrove47/Gerber_et_al_2023)
 
 - **Urbanus & Cosgrove *et al.* (2023, Nature Communications)** — *Ageing and hematopoietic stem cell dynamics in the bone marrow niche*  
-  [Repository](https://github.com/jasoncosgrove47/Urbanus_Cosgrove_et_al_2023)
+  [Repository](https://github.com/jasoncosgrove47/Urbanus_Cosgrove_etal_2023)
 
 - **Eisele *et al.* (2022, eLife)** — *Integration of scRNA-seq and cellular barcoding to study blood cell production*  
   [Repository](https://github.com/jasoncosgrove47/Eisele_et_al_2022)
