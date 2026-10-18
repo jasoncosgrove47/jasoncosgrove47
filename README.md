@@ -25,7 +25,7 @@ engineering, biology and computational biology to develop end-to-end discovery w
 | [Eisele et al. 2022](https://github.com/jasoncosgrove47/Eisele-et-al-2021) | scRNA-seq plus cellular barcoding of blood cell production (*eLife*) |
 | [RNA-seq tutorial](https://github.com/jasoncosgrove47/RNAseq_tutorial) | Teaching material: an end-to-end bulk RNA-seq workflow in R (DESeq2, enrichment, WGCNA) |
 | [Rate My SBD](https://github.com/jasoncosgrove47/rate-my-SBD) | Side project: an R Shiny app that benchmarks powerlifting performances against OpenPowerlifting data |
-| 🚧 biomed-evidence-mcp | *In progress:* MCP server, Claude skill and evaluation suite for drug-repurposing evidence in rare diseases |
+| 🚧 biomed-evidence-mcp | *In progress:* MCP server, Claude skill and evaluation suite for drug-repurposing evidence (benchmark: rheumatoid arthritis) |
 
 ### Selected publications
 - **Cosgrove J** et al. (2026) The pentose phosphate pathway regulates myelo-lymphoid lineage specification. *Nature Communications* (accepted)
