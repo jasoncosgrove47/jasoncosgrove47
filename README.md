@@ -5,7 +5,7 @@
 My goal is to build safe AI systems for diverse biomedical applications. I combine safety-critical systems
 engineering, biology and computational biology to develop end-to-end discovery workflows.
 
-🌐 **[jasoncosgrove47.github.io](https://jasoncosgrove47.github.io)** · [Google Scholar](https://scholar.google.com/citations?user=gH0WDeIAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/jason-cosgrove-18537a53/) · [ORCID](https://orcid.org/0000-0003-3121-2009) · Principal Scientist, Computational Medicine · Co-founder, [C3 Bioscience](https://c3bioscience.com)
+🌐 **[jasoncosgrove47.github.io](https://jasoncosgrove47.github.io)** · [Google Scholar](https://scholar.google.com/citations?user=gH0WDeIAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/jason-cosgrove-18537a53/) · [ORCID](https://orcid.org/0000-0003-3121-2009) · Principal Scientist, Computational Medicine
 
 ---
 
