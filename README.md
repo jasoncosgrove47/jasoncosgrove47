@@ -23,6 +23,8 @@ engineering, biology and computational biology to develop end-to-end discovery w
 | [Gerber et al. 2023](https://github.com/jasoncosgrove47/Gerber_et_al_2023) | scRNA-seq of haematopoietic stem and progenitor cells in breast cancer (*Nature Cell Biology*) |
 | [Urbanus, Cosgrove et al. 2023](https://github.com/jasoncosgrove47/Urbanus_Cosgrove_etal_2023) | scRNA-seq of blood stem and progenitor cells in young vs old (*Nature Communications*) |
 | [Eisele et al. 2022](https://github.com/jasoncosgrove47/Eisele-et-al-2021) | scRNA-seq plus cellular barcoding of blood cell production (*eLife*) |
+| [RNA-seq tutorial](https://github.com/jasoncosgrove47/RNAseq_tutorial) | Teaching material: an end-to-end bulk RNA-seq workflow in R (DESeq2, enrichment, WGCNA) |
+| [Rate My SBD](https://github.com/jasoncosgrove47/rate-my-SBD) | Side project: an R Shiny app that benchmarks powerlifting performances against OpenPowerlifting data |
 | 🚧 biomed-evidence-mcp | *In progress:* MCP server, Claude skill and evaluation suite for drug-repurposing evidence in rare diseases |
 
 ### Selected publications
